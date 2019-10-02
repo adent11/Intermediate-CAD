@@ -1,8 +1,11 @@
 # Intermediate_CAD
 
 ### Advanced and Mechanical Mates Assembly:
-This is the assembly for the Solidworks tutorial Advanced and Mechanical Mates.
-
+Advanced_and_Mechanical_Mates.SLDASM <br /> 
+<br />
+For this assignment I mated all of the parts together with advanced mates that allowed them to move.<br />
+This assignment taught me how to use Solidworks assemblies to make a more dynamic prototype.<br />
+<br />
 The linear extender compressed:
 ![random text](Images/Advanced_And_Mechanical_Mates_A.PNG)
 The linear extender extending:
