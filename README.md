@@ -15,3 +15,10 @@ This assignment taught me how to use Solidworks assemblies to make a more dynami
   
 ### Advanced_and_Mechanical_Mates_1.SLDPRT
 #### Advanced and Mechanical Mates Assignment
+
+
+### Pin.SLDPRT
+#### Advanced and Mechanical Mates Assignment
+
+### Design_Tables.SLDPRT
+#### Design Tables Assignment
