@@ -9,7 +9,7 @@ This assignment taught me how to use Solidworks assemblies to make a more dynami
 
 
 
-  <IMG SRC="Images/ezgif.com-gif-maker (1).gif"  width="250" height="200">
+  <IMG SRC="Images/Advanced_And_Mechanical_Mates_Gif.gif"  width="250" height="200">
 <br />
 <br />
   
