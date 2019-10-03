@@ -1,6 +1,6 @@
 # Intermediate_CAD
 
-### Advanced_and_Mechanical_Mates.SLDASM: <br />
+### Advanced_and_Mechanical_Mates.SLDASM:
 #### Advanced and Mechanical Mates Assembly
 <br />
 For this assignment I mated all of the parts together with advanced mates that allowed them to move. This created a linear extender.<br />
