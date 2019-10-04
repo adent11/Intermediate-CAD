@@ -6,7 +6,7 @@ Advanced_and_Mechanical_Mates.SLDASM <br />
 Advanced_and_Mechanical_Mates_1.SLDPRT <br />
 Pin.SLDPRT <br />
 
-For this assignment I mated all of the parts together with advanced mates that allowed them to move. This created a linear extender.<br />
+In this assignment I made a linear extender that is controlled with a pin. The body of the extender is made of three different versions of the same part.<br />
 This assignment taught me how to use Solidworks assemblies to make a more dynamic and functional CAD prototype.<br />
 <br />
 
