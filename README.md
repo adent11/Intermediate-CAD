@@ -1,7 +1,7 @@
 # Intermediate_CAD
 
 ## Advanced and Mechanical Mates
-#### Files in this assignment:
+#### Included Files:
 Advanced_and_Mechanical_Mates.SLDASM <br />
 Advanced_and_Mechanical_Mates_1.SLDPRT <br />
 Pin.SLDPRT <br />
