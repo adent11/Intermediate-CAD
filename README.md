@@ -20,8 +20,8 @@ This assignment taught me how to use advanced mates in assemblies to make a more
 
 ## Design Tables
 #### Included Files:
-Design_Tables.SLDPRT
+Design_Tables.SLDPRT <br />
 
-
+For this assignment I made a "spool thingy" that has different configurations that allow you to make it in different sizes without having to recreate the whole part. In this I learned how using design tables can be much more efficient than redesigning a part from scratch.
 
   <IMG SRC="Images/DesignTablesGif.gif"  width="175" height="200">
