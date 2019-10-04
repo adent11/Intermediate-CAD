@@ -19,4 +19,5 @@ This assignment taught me how to use advanced mates in assemblies to make a more
 
 
 ## Design Tables
-#### Files in this assignemnt: <br />
+#### Included Files:
+Design_Tables.SLDPRT
