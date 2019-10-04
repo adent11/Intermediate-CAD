@@ -21,3 +21,7 @@ This assignment taught me how to use advanced mates in assemblies to make a more
 ## Design Tables
 #### Included Files:
 Design_Tables.SLDPRT
+
+
+
+  <IMG SRC="Images/DesignTablesGif.gif"  width="175" height="200">
