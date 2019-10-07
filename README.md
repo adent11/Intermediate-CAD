@@ -2,9 +2,9 @@
 
 ## Advanced and Mechanical Mates
 #### Included Files:
-Advanced_and_Mechanical_Mates.SLDASM <br />
-Advanced_and_Mechanical_Mates_1.SLDPRT <br />
-Pin.SLDPRT <br />
+<a href="Advanced_and_Mechanical_Mates.SLDASM">Advanced_and_Mechanical_Mates.SLDASM</a><br/>
+<a href="Advanced_and_Mechanical_Mates_1.SLDPRT">Advanced_and_Mechanical_Mates_1.SLDPRT</a><br/>
+<a href="Pin.SLDPRT">Pin.SLDPRT</a><br/>
 
 In this assignment I made a linear extender that is controlled with a pin. The body of the extender is made of three different versions of the same part. This assignment taught me how to use advanced mates in assemblies to make a more dynamic and functional CAD prototype.
 <br />
@@ -19,7 +19,7 @@ In this assignment I made a linear extender that is controlled with a pin. The b
 
 ## Design Tables
 #### Included Files:
-Design_Tables.SLDPRT <br />
+<a href="Design_Tables.SLDPRT">Design_Tables.SLDPRT</a><br/>
 
 For this assignment I made a "spool thingy" that has different configurations that allow you to make it in different sizes without having to recreate the whole part. In this I learned how using design tables can be much more efficient than redesigning a part from scratch.
 
