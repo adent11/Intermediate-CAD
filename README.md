@@ -12,10 +12,6 @@ In this assignment I made a linear extender that is controlled with a pin. The b
 
 
   <IMG SRC="Images/Advanced_And_Mechanical_Mates_Gif.gif"  width="250" height="200">
-<br />
-<br />
-
-
 
 ## Design Tables
 #### Included Files:
